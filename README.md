@@ -1,2 +1,0 @@
-# Odyssey
-Capstone Project
